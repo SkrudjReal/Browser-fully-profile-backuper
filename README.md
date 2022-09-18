@@ -10,7 +10,7 @@ I can work on: Windows/MacOs/Linux/Android
 
 How to configure:
 
-1.Open config.py and fill all the strings
+1.Open config.py and fill all the strings.
 2.Start it!
 
 python browser_backuper.py
