@@ -1,10 +1,12 @@
-# firefox-fully-profile-backup
-Do backup firefox profile
+# browser-fully-profile-backup
+Do backup your browser profile
 
 What i can do:
 ~ Backup Firefox/Google/Yandex/Opera profiles
 ~ Backup another folder what you want!
 ~ Delete old backups
+
+I can work on: Windows/MacOs/Linux/Android
 
 How to configure:
 
