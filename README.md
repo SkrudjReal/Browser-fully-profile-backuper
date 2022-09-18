@@ -1,5 +1,5 @@
-# browser-fully-profile-backup
-Do backup your browser profile
+# browser-fully-profile-backuper
+Do backups your browser profile
 
 What i can do:
 ~ Backup Firefox/Google/Yandex/Opera profiles
